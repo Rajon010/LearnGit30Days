@@ -6,9 +6,3 @@ public class Main {
 		queue.enqueue(10);
 		queue.enqueue(11);
 		queue.enqueue(12);
-		queue.enqueue(13);
-RRRRRRRRR
-		queue.dequeue();
-		queue.dequeue();
-	}
-}
